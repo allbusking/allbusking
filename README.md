@@ -2,7 +2,7 @@
 
 ## 🎨 About Me
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Full-Stack Web Development(MERN)**
 - 📘 Diving into **Data Structures & Algorithms using C++**
 - 🔗 Exploring **Future Technologies**
 - 🎨 A passionate **artist** 
