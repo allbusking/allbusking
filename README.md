@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development(MERN)**
 - 📘 Diving into **Data Structures & Algorithms using C++**
 - 🔗 Exploring **Future Technologies**
-- 🎨 A passionate **Artist and Learner** 
+- 🎨 A passionate **Artist and Coder** 
 
 ## 🚀 Tech stack
 
@@ -43,7 +43,25 @@
 - Gmail - allbusking8@gmail.com
 - Linkedin -
    
-Always open to collaborations, discussions, and exciting opportunities! 🚀
+#### Always open to collaborations, discussions, and exciting opportunities! 🚀
+
+## 🎨 My Art
+
+- Contact me for Commission Artwork
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/allbusking/allbusking/main/IMG20250126144155.jpg" alt="Art 1" width="200px" />
+      </td>
+      <td width="40px"></td> <!-- Gap -->
+      <td>
+        <img src="https://raw.githubusercontent.com/allbusking/allbusking/main/IMG20240826012329.jpg" alt="Art 2" width="200px" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!--
 **allbusking/allbusking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
