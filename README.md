@@ -22,32 +22,34 @@
 - 🌱 I’m currently learning **Full-Stack Web Development(MERN)**
 - 📘 Diving into **Data Structures & Algorithms using C++**
 - 🔗 Exploring **Future Technologies**
-- 🎨 A passionate **Artist and Coder** 
+- 🎨 A passionate **Artist** and an **ever-evolving Coder**
+- 🤝 **Open to collaborations**, lets connect and build
 
 ## 🚀 Tech stack
 
-- 💻 Languages: JavaScript | C++ | HTML | CSS
-- ⚙️ Tools: Git | GitHub | VS Code 
-- 🧰 Libraries & Frameworks: React.js | Node.js (Learning in progress)
+- **💻 Languages:** JavaScript | C++ | HTML | CSS
+- **⚙️ Tools:** Git | GitHub | VS Code 
+- **🧰 Libraries & Frameworks:** React.js | Node.js | Express | Tailwind CSS (Learning in progress)
 
 ## 📌 What I’m working on
 
-- Learning Full-Stack Web Development
-- Solving DSA problems in C++
-- Exploring Competitive Programming
-- Exploring other Technologies 
+- Learning **Full-Stack Web Development** and building projects
+- **Solving DSA problems** in C++
+- Exploring **Competitive Programming**
+- **Exploring latest Technologies**
+- Sketching on paper, building on screen — **that’s my creative routine**
 
 
 ## 📫 Contact Me
 
-- Gmail - allbusking8@gmail.com
-- Linkedin -
+- **Gmail** - allbusking8@gmail.com
+- **Linkedin** -
    
 #### Always open to collaborations, discussions, and exciting opportunities! 🚀
 
 ## 🎨 My Art
 
-- Contact me for Commission Artwork
+- **Contact me for Commission Artwork**
 
 <p align="center">
   <table>
