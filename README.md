@@ -29,7 +29,7 @@
 
 - **💻 Languages:** JavaScript | C++ | HTML | CSS
 - **⚙️ Tools:** Git | GitHub | VS Code 
-- **🧰 Libraries & Frameworks:** React.js | Node.js | Express | Tailwind CSS (Learning in progress)
+- **🧰 Libraries & Frameworks:** React.js | Node.js | Express | Tailwind CSS | MongoDB (Learning in progress)
 
 ## 📌 What I’m working on
 
